@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kentos-1
-- 👀 I’m interested in sport and AI
+- 👀 I’m interested in sports and AI
 - 🌱 I’m currently learning python and school subjects
 - ⚡ Fun fact: im 15 and im already learning computer sience)
 
