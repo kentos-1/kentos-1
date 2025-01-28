@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kentos-1
-- 👀 I’m interested in sports and AI
-- 🌱 I’m currently learning python and school subjects
-- ⚡ Fun fact: im 15 and im already learning computer sience)
+- 👋 Hi, I’m @kentos-1 and im ordinary GitHub user.Now i learnig python and trying create telegram-bots)))
 
 <!---
 kentos-1/kentos-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
